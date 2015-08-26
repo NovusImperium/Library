@@ -1,0 +1,13 @@
+Asset_ID: P100
+Issue_Number: 1
+Checked_Out_By: M100
+Due_Date: 01/01/0000
+
+Asset_ID: B100
+Checked_Out_By: M100
+Due_Date: 01/02/0000
+
+Asset_ID: P100
+Issue_Number: 2
+Checked_Out_By: M100
+Due_Date: 02/01/0000

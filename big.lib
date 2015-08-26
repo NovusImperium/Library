@@ -1,0 +1,65 @@
+Type: PERIODICAL
+Name: Time
+ID: P502
+Asset_Type: LITERARY
+ISSN:   0040-781X
+Issues: 2
+Volume: 89      Number: 1
+Publication_Date: 01/05/2012
+Checked_Out_On: 08/19/2013
+Checked_Out_By: M101
+Volume: 89      Number: 2
+Publication_Date: 01/12/2012
+Checked_Out_On: 00/00/0000
+Checked_Out_By: NONE
+
+Type: BOOK 
+Name: Fire in the Valley
+ID: B501
+Asset_Type: BIOGRAPHY
+Author: Paul Freiberger and Michael Swaine
+ISBN: 978-0071358927
+Type: NONFICTION
+Checked_Out_On: 09/13/2013
+Checked_Out_By: M101
+
+Type: MEMBER
+Name: Anne A. Student
+ID: M101
+Address: 25 Meridian Circle
+City: Rohnert Park
+State: California
+Zip: 94928
+Phone_Number: 707-664-1234
+Checked_Out: 2  B501    P502
+
+Type: MEMBER
+Name: Kyle Janssen
+ID: M102
+Address: 1133 Hughes Ave
+City: Santa Rosa
+State: California
+Zip: 95407
+Phone_Number: 707-758-3596
+Checked_Out: 2	B511	P512
+
+Type: BOOK 
+Name: House of Leaves
+ID: B511
+Asset_Type: LITERARY
+Author: Mark Z. Danielewski
+ISBN: 0-375-70376-4
+Type: FICTION
+Checked_Out_On: 09/13/2013
+Checked_Out_By: M102
+
+Type: PERIODICAL
+Name: Bimmer
+ID: P512
+Asset_Type: SPORTS
+ISSN:  	4808-0172
+Issues: 1
+Volume: 108	Number: 1
+Publication_Date: 08/01/2012
+Checked_Out_On: 08/19/2013
+Checked_Out_By: M102
